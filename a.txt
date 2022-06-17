@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-1 kkk- by second
-2 k - be first
-3 2222
+1
+2
+3
 4
 5
 6
